@@ -1,6 +1,9 @@
 [package]
 name = "lorenz-sz"
 version = "0.1.0"
+authors = ["Hugh Coleman <htcolema@uwaterloo.ca>"]
 edition = "2021"
-
-[dependencies]
+description = "Simulator of the Lorenz SZ40 cipher machine"
+repository = "https://github.com/hughcoleman/lorenz-sz"
+license = "MIT"
+keywords = ["ww2-cryptography"]
